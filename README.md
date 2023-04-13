@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Braden
 
-- ✍ You can find my projects here [portfolio](https://github.com/BrayDen002?tab=repositories)
+- ✍ You can find my projects here [portfolio](https://github.com/BrayDen002?tab=repositories) [tableau](https://public.tableau.com/app/profile/braden.dalit)
 - 👀 I’m interested in improving my skills in JavaScript, CSS, and SQL
 - 😄 Pronouns: He/Him/They/Them
 
