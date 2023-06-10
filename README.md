@@ -10,19 +10,20 @@
 <br />
 
 ### Languages:
+- [x] SQL
 - [x] JavaScript
 - [x] CSS
 - [x] Python
 - [x] C++
-- [x] SQL
 
 <br />
 
 ### Tools:
+- [x] MicroSoft SQL Server
+- [x] MySQL
+- [x] Tableau
 - [x] Visual Studio Code
 - [x] Spring Tool Suite
-- [x] Tableau
-- [x] MySQL
 - [x] MongoDB
 - [x] React
 - [x] API
