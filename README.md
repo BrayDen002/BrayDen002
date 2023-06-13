@@ -11,10 +11,13 @@
 
 ### Languages:
 - [x] SQL
+- [x] Java
+- [x] C++
+- [x] Python
 - [x] JavaScript
 - [x] CSS
-- [x] Python
-- [x] C++
+- [x] HTML
+
 
 <br />
 
