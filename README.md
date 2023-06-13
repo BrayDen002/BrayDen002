@@ -30,6 +30,7 @@
 - [x] MongoDB
 - [x] React
 - [x] API
+- [x] Regex
 
 
 ### Project Management Tools:
