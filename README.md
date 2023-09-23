@@ -10,10 +10,10 @@
 <br />
 
 ### Languages:
-- [x] SQL
-- [x] Java
-- [x] C++
 - [x] Python
+- [x] Java
+- [x] SQL
+- [x] C++
 - [x] JavaScript
 - [x] CSS
 - [x] HTML
@@ -22,14 +22,16 @@
 <br />
 
 ### Tools:
+- [x] AWS
+- [x] React
+- [x] GCP
 - [x] MicroSoft SQL Server
+- [x] Various API's
 - [x] MySQL
 - [x] Tableau
 - [x] Visual Studio Code
 - [x] Spring Tool Suite
 - [x] MongoDB
-- [x] React
-- [x] API
 - [x] Regex
 
 
