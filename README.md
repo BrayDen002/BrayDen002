@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Braden
 
 - ✍ You can find my projects here [repositories](https://github.com/BrayDen002?tab=repositories) | [tableau](https://public.tableau.com/app/profile/braden.dalit)
-- 👀 I’m interested in improving my skills in JavaScript, CSS, and SQL
+- 👀 I’m interested in improving my skills in Python, SQL, AWS, and Azure
 - 😄 Pronouns: He/Him/They/Them
 
 ### Talk with me, I would like to meet you:
